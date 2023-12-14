@@ -17,7 +17,7 @@ I love the entire process of developing creative websites, videogames and cinema
 </br>
 <p> 💬 If you have any question/feedback, please do not hesitate to reach out to me! </p>
 
-## 🔭 I'm currently working on
+## 🔭 I'm working on Neock but I'm still working on
 
 - New projects to learn Angular in deep, Nestjs and Docker
 - Personal portfolio
