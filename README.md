@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julio Macias Caldera</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **Assembler Institute of Technology**
+- 🔭 I’m currently working on **NeoCK**
 
-- 🌱 I’m currently learning **software developer focused on frontend with MERN Stack**
+- 🌱 I’m working with **React, TypeScript, Git and Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juliomc23](https://github.com/juliomc23)
 
